@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 public class Employees {
     private final ArrayList<Developer> developers = new ArrayList<>();
-    public void homework2() {
+    public void Employees() {
 
         developers.add(new FrontEnder());
         developers.add(new BackEnder());
