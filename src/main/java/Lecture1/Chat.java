@@ -101,7 +101,7 @@ public class Chat extends JFrame{
                 String s = new String (buffer, 0, len);
                 txtFieldLog.append(s); }
             br.close();
-        } catch (IOException e) {e.printStackTrace();}
+        } catch (IOException e) {}
 
 
 
